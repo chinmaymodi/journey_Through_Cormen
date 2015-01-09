@@ -1,0 +1,2 @@
+The folders for each chapter contains code related to the algorithms and exercises in the chapter.
+The Exercises.doc file contains answer to textual exercises. If any exercise needs accompanying code, check the relevant chapter folder for the code.
